@@ -1,0 +1,5 @@
+# Ignorar la carpeta node_modules en el directorio client
+/client/node_modules/
+
+# Ignorar la carpeta node_modules en el directorio server
+/server/node_modules/
